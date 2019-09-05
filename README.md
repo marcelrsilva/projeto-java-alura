@@ -1,4 +1,4 @@
-# projeto-java-alura
+# projeto-java
 Projeto de conclusão da formação JAVA
 ## Ambiente 
 
