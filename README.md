@@ -34,9 +34,11 @@ Então execute a "URL Mágica" para cadastrar produtos e um usuario padrão.
 
 	http://localhost:8080/casadocodigo/url-magica-maluca-oajksfbvad6584i57j54f9684nvi658efnoewfmnvowefnoeijn
 
-Credenciais do usuário padrão são: Login: admin@casadocodigo.com.br, Senha: 123456
+Credenciais do usuário padrão são: 
+	Login: admin@casadocodigo.com.br 
+	Senha: 123456
 
-## SQL para gerar as tables
+## SQL para gerar tables
 
 Se preferir gerar o banco, seguem os comandos SQL para o banco MySQL:
 
