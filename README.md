@@ -1,5 +1,5 @@
 # Projeto de formação JAVA
-Esse projeto implementa algumas funcionalidades no back-end do projeto base A Casa do Código da formação JAVA usando o framework Spring MVC.
+Esse projeto implementa algumas funcionalidades no back-end do projeto A Casa do Código da formação JAVA usando o framework Spring MVC.
 ## Ambiente 
 
 Essa aplicação foi testada com JRE8 e Apache Tomcat 7.
