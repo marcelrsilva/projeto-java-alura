@@ -6,11 +6,11 @@ Essa aplicação foi testada com JRE8 no Apache Tomcat 7.
  
 ## MySQL
 
-O projeto usa MySQL5 e deve existir já o banco `casadocodigo` (sem senha). O JPA foi configurado para dropar e gerar as tables automaticamente ao iniciar (na classe `JPAConfiguration`). Caso queira gerar as tabelas manualmente, abaixo desse README tem os comandos SQL.
+O projeto usa MySQL5 e já deve existir o banco `casadocodigo` sem senha. O JPA foi configurado para dropar e gerar as tables automaticamente ao iniciar (na classe `JPAConfiguration`). Caso queira gerar as tabelas manualmente, abaixo desse README tem os comandos SQL.
 
 ## Compilação
 
-Para compilar immporte o projeto no Eclipse usando (*Existing Maven Project*) ou compile na linha de comando usando Maven:
+Para compilar importe o projeto no Eclipse usando (*Existing Maven Project*) ou compile na linha de comando usando Maven:
 
 	mvn clean package -DskipTests=true
 
