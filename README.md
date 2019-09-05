@@ -1,7 +1,8 @@
 # Projeto de formação JAVA
+Esse projeto implementa algumas funcionalidades no back-end do projeto base A Casa do Código da formação JAVA usando o framework Spring MVC.
 ## Ambiente 
 
-Essa aplicação foi testada com JRE8 no Apache Tomcat 7.
+Essa aplicação foi testada com JRE8 e Apache Tomcat 7.
  
 ## MySQL
 
@@ -34,8 +35,8 @@ Então execute a "URL Mágica" para cadastrar produtos e um usuario padrão.
 	http://localhost:8080/casadocodigo/url-magica-maluca-oajksfbvad6584i57j54f9684nvi658efnoewfmnvowefnoeijn
 
 Credenciais do usuário padrão são: 
-	Login: admin@casadocodigo.com.br 
-	Senha: 123456
+	Login: `admin@casadocodigo.com.br`
+	Senha: `123456`
 
 ## SQL para gerar tables
 
