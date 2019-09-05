@@ -1,5 +1,4 @@
-# projeto-java
-Projeto de conclusão da formação JAVA
+# Projeto de formação JAVA
 ## Ambiente 
 
 Essa aplicação foi testada com JRE8 no Apache Tomcat 7.
